@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate backend & Android App developer from India <br>
+I'm Prince kumar singh, a web developer, and I create the backend for startups to make their systems scalable and production-ready. I work on the Laravel framework, which is built on PHP, LAMP MERN, and 2 years of experience with Laravel Framework Stack. I have worked on many projects in the past that are currently successfully running, and recently I have won Asia Largest Blockchain Hackathon ETH India 22 Winner. <br>
 🔭 I’m currently working on Tailux
 
 
