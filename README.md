@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate backend & Android App developer from India
+A passionate backend & Android App developer from India <br>
 🔭 I’m currently working on Tailux
 
 
