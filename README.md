@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm Prince kumar singh, a web developer, and I create the backend for startups to make their systems scalable and production-ready. I work on the Laravel framework, which is built on PHP, LAMP MERN, and 2 years of experience with Laravel Framework Stack. I have worked on many projects in the past that are currently successfully running, and recently I have won Asia Largest Blockchain Hackathon ETH India 22 Winner. <br>
-🔭 I’m currently working on Snive
+I'm a passionate developer with a focus on building scalable, production-ready systems for startups. With expertise in both the MERN stack and Spring Boot framework, I have successfully delivered multiple projects that are live and driving results for businesses today. Recently, I had the honor of winning Asia’s Largest Blockchain Hackathon – ETH India 22. My journey is defined by my commitment to innovation, robust system architecture, and creating impactful solutions.
+
+🔭 Currently working on Voizo Connect – a project revolutionizing how people connect via VOIP.
 
 
 ## 🌐 Socials:
